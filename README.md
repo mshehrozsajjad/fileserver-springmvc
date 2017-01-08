@@ -1,4 +1,4 @@
-# fileserver-springmvc
+# FileServer-Spring MVC
 <h3>Introduction</h3>
 A file server is a dedicated machine, typically running on a local network which acts as a shared disk storage for authorized users. The utility of such an application can be increased many-folds by allowing web based public interfaces and dynamic group management for this service.
 
